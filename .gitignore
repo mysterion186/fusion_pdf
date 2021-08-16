@@ -1,1 +1,5 @@
 .DS_Store
+*.pdf 
+.mypy_cache/
+fusion/
+readpdf.py 
